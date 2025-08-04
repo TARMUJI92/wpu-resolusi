@@ -1,8 +1,15 @@
 rncana kontent
 - js
+  * bjr
 - node js
+  * bjr
 - go
+  *bjr
 - next js
+  * bjr
 - react js
+  * bjr
 - git
+  * bjr
 - github
+  * bjr
