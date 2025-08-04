@@ -1,0 +1,8 @@
+rncana kontent
+- js
+- node js
+- go
+- next js
+- react js
+- git
+- github
