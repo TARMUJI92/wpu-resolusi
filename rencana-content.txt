@@ -16,8 +16,5 @@ rncana kontent
 - showroom
    * mobil
 menambahkan showroom mobil
-
-- fasilitas showroom mobi
-  * AC
-  * TV
-  * Komputer
+10 mobil pribadi 
+10 mobil Bus
